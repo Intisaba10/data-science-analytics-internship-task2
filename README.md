@@ -1,6 +1,6 @@
 # data-science-analytics-internship-task2
 
-# Task 2: Credit Risk Prediction
+# Credit Risk Prediction
 
 ## Objective
 Predict whether a loan applicant is likely to default using machine learning models, and evaluate their performance.
